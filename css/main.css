@@ -574,16 +574,16 @@ body::-webkit-scrollbar-track {
     white-space: normal !important;
 }
 .language {
-    background: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
-    border-radius: 0 0 10px 10px;
-    box-shadow: 1px 1px 0.75rem #ed6ea14d;
-    color: #fff;
-    font-size: 12px;
-    font-weight: bold;
-    left: 30px;
-    padding: 10px 15px;
-    position: absolute;
-    top: 0;
+  background: linear-gradient(to right, #00bfff 0%, #1e90ff 100%);
+  border-radius: 0 0 10px 10px;
+  box-shadow: 1px 1px 0.75rem rgba(0, 191, 255, 0.3);
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  left: 30px;
+  padding: 10px 15px;
+  position: absolute;
+  top: 0;
 }
 .page-num,
 .icon-link a,
